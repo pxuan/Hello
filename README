@@ -1,1 +1,8 @@
 Another attempt to do the hello world
+create holding (parent) directory
+then cd into it
+run git clone URL
+that creates a new directory containing the clone of the project
+cd into new dir
+(git fetch does nothing now).
+try to modify this.
